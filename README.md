@@ -30,12 +30,21 @@ CSEC470 % python whitespace_decoder.py test3.txt
 1101111 | o
 
 CSEC470 % python whitespace_decoder.py Welcome\ to\ CSEC47\ Covert\ Communications.txt 
+
 1110011 | s
+
 1100101 | e
+
 1101110 | n
+
 1100100 | d
+
 0100000 |  
+
 1100110 | f
+
 1101111 | o
+
 1101111 | o
+
 1100100 | d
