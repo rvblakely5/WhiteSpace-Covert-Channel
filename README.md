@@ -18,10 +18,15 @@ rob@Robs-MBP CSEC470 % python whitespace_encoder.py test.txt test3.txt hello
 
 Example Decodings:
 CSEC470 % python whitespace_decoder.py test3.txt
+
 1101000 | h
+
 1100101 | e
+
 1101100 | l
+
 1101100 | l
+
 1101111 | o
 
 CSEC470 % python whitespace_decoder.py Welcome\ to\ CSEC47\ Covert\ Communications.txt 
