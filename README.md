@@ -14,7 +14,7 @@ Decoder Usage:
 python whitespace_decoder.py [file to decode]
 
 Example Encoding:
-rob@Robs-MBP CSEC470 % python whitespace_encoder.py test.txt test3.txt hello
+CSEC470 % python whitespace_encoder.py test.txt test3.txt hello
 
 Example Decodings:
 ```
